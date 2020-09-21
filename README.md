@@ -16,7 +16,7 @@ This project contains an end to end solution for Next.js authentication on AWS w
 8. Accessing the user session in an API route
 9. Deploying the app using the Next.js Serverless Component
 
-### To deploy this app, follow these steps:
+### To deploy the authentication service and run the app, follow these steps:
 
 1. Clone the repo
 
