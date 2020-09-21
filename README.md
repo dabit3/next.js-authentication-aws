@@ -1,5 +1,7 @@
 # Next.js authentication with AWS
 
+![](header.jpg)
+
 This project contains an end to end solution for Next.js authentication on AWS with AWS Amplify.
 
 1. Client authentication
