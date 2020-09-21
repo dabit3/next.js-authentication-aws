@@ -25,7 +25,7 @@ git clone https://github.com/dabit3/next.js-authentication-aws.git
 2. Change into the directory and install the dependencies
 
 ```sh
-cd next.js-authentication
+cd next.js-authentication-aws
 
 npm install
 ```
