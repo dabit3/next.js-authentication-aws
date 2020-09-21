@@ -1,5 +1,7 @@
 # Next.js authentication with AWS
 
+> This code goes along with my tutorial [The complete Guide to Authentication with Next.js and AWS](https://dev.to/dabit3/the-complete-guide-to-next-js-authentication-2aco)
+
 ![](header.jpg)
 
 This project contains an end to end solution for Next.js authentication on AWS with AWS Amplify.
