@@ -19,7 +19,7 @@ To deploy this app, follow these steps:
 1. Clone the repo
 
 ```sh
-git clone https://github.com/dabit3/next.js-authentication.git
+git clone https://github.com/dabit3/next.js-authentication-aws.git
 ```
 
 2. Change into the directory and install the dependencies
