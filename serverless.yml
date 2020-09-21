@@ -1,0 +1,2 @@
+myNextApp:
+    component: "@sls-next/serverless-component@1.16.0" 
